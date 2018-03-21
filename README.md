@@ -4,8 +4,8 @@ Python 3.6.3 on Anaconda 64bit
 
 ## Features  
 - [x] Grid-based SDFs renderer  
-- [x] ParellelcComputing  
-- [x] Compatible for other ray marching programs  
+- [x] Parellel computing  
+- [x] Rendering part compatible for general SDFs   
 - [x] Pinhole camera implemented  
 - [x] Depth (Model space) based linear interpolation for shading  
 - [ ] Texture
