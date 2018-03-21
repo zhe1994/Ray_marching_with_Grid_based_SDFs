@@ -22,9 +22,12 @@ https://github.com/christopherbatty/SDFGen
 ## Rendering results  
 * Bunny from front 
 <img src="./result_bunny_front.png" width="300">
+
 * Bunny from top  
 <img src="./result_bunny_top.png" width="300">
+
 * Cube from rotated camera  
 <img src="./result_cube_rotated.png" width="300">
+
 * Teapot    
-<img src="./result_teapot.png" width="300">  
+<img src="./result_teapot.png" width="300">
