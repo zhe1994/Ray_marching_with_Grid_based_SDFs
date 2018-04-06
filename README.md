@@ -16,7 +16,7 @@ Python 3.6.3 on Anaconda 64bit
 ~~~
 python deploy.py --path filename
 ~~~
-* My grid-based SDFs were generated from this project  
+* The grid-based SDFs were generated from this project by level-set algorithm  
 https://github.com/christopherbatty/SDFGen  
 
 ## Rendering results  
